@@ -1,0 +1,28 @@
+[14:07:08] [Global] trung has joined the chat!
+[14:07:15] [Global] nhựt has joined the chat!
+[14:07:18] [Global] nhựt: 222
+[14:07:24] [Global] trung: 😊
+[14:07:32] [Private] trung -> nhựt: 22222
+[14:07:40] [Private] nhựt -> trung: gì mậy
+[14:07:51] [Global] nhựt has left the chat.
+[14:07:52] [Global] trung has left the chat.
+[15:24:00] [Global] trung has joined the chat!
+[15:24:15] [Global] nhựt has joined the chat!
+[15:24:45] [Global] nhựt: hi trung
+[15:24:55] [Global] trung: hi mọi người
+[15:25:18] [Private] trung -> nhựt: 2 nhựt
+[15:25:24] [Private] nhựt -> trung: gì trung
+[15:27:18] [Global] trung has left the chat.
+[15:27:24] [Global] nhựt has left the chat.
+[23:54:44] [Global] trung has joined the chat!
+[23:54:59] [Global] nhựt has joined the chat!
+[23:55:09] [Global] nhựt: 222
+[23:55:19] [Global] trung: 333
+[23:55:34] [Global] phú has joined the chat!
+[23:55:41] [Global] phú: 4555
+[23:55:48] [Private] nhựt -> phú: ccc
+[23:56:08] [Private] phú -> nhựt: ccc g
+[23:56:18] [Global] trung: 😊
+[23:56:33] /image F:\learning\HKI24-25\PTUDHDV\KetThucMon\MiniChat-Update - v3\chat_images\avt.jpg
+[23:57:31] [Global] phú has left the chat.
+[23:57:31] [Global] trung has left the chat.
