@@ -223,3 +223,47 @@
 2025-01-08 12:25:11 [INFO]: MongoDB Connected: localhost
 2025-01-08 12:25:43 [INFO]: MongoDB Connected: localhost
 2025-01-08 12:25:45 [INFO]: MongoDB Connected: localhost
+2025-01-08 22:52:45 [INFO]: MongoDB Connected: localhost
+2025-01-09 09:44:43 [INFO]: Tạo người dùng thất bại: ["Mật khẩu phải chứa ít nhất một ký tự đặc biệt."]
+2025-01-09 09:45:14 [INFO]: Người dùng với email daiphu1611@gmail.com đã được tạo thành công.
+2025-01-09 09:46:28 [INFO]: Fetched 2 users (page: 1, limit: 10)
+2025-01-09 09:47:38 [INFO]: Fetched 2 users (page: 1, limit: 10)
+2025-01-09 09:48:18 [INFO]: Fetched 2 users (page: 1, limit: 10)
+2025-01-09 09:49:03 [INFO]: Người dùng với ID 677df62567125c344526142a đã được cập nhật thành công.
+2025-01-09 09:50:09 [INFO]: Người dùng với ID 677f383a60c223b2c1f6a667 đã được xóa thành công.
+2025-01-09 09:51:50 [WARN]: Người dùng với ID 677f383a60c223b2c1f6a667 không tồn tại.
+2025-01-09 09:51:59 [INFO]: Fetched 1 users (page: 1, limit: 10)
+2025-01-09 09:52:04 [INFO]: Thông tin người dùng với ID 677df62567125c344526142a đã được trả về.
+2025-01-09 13:42:46 [INFO]: MongoDB Connected: localhost
+2025-02-21 14:08:13 [INFO]: MongoDB Connected: localhost
+2025-02-21 14:08:39 [INFO]: MongoDB Connected: localhost
+2025-02-21 14:12:03 [INFO]: MongoDB Connected: localhost
+2025-02-21 14:29:30 [INFO]: MongoDB Connected: localhost
+2025-02-21 23:28:04 [INFO]: MongoDB Connected: localhost
+2025-02-21 23:37:12 [INFO]: Tạo người dùng thất bại: ["Mật khẩu phải có ít nhất 8 ký tự."]
+2025-02-21 23:37:20 [INFO]: Tạo người dùng thất bại: ["Mật khẩu phải chứa ít nhất một ký tự đặc biệt."]
+2025-02-21 23:37:26 [INFO]: Người dùng với email daiphu@gmail.com đã được tạo thành công.
+2025-02-21 23:38:59 [INFO]: Fetched 2 users (page: 1, limit: 10)
+2025-02-21 23:39:14 [INFO]: Thông tin người dùng với ID 67b8abc657c060c927ff3454 đã được trả về.
+2025-02-21 23:39:52 [INFO]: Thông tin người dùng với ID 67b8abc657c060c927ff3454 đã được trả về.
+2025-02-21 23:40:19 [INFO]: Fetched 2 users (page: 1, limit: 10)
+2025-02-21 23:41:01 [ERROR]: Lỗi trong quá trình xác thực: Cast to ObjectId failed for value "67b8abc657c060c927ff34542" (type string) at path "_id" for model "User"
+2025-02-21 23:41:01 [ERROR]: Lỗi khi cập nhật người dùng: Cast to ObjectId failed for value "67b8abc657c060c927ff34542" (type string) at path "_id" for model "User"
+2025-02-21 23:41:14 [ERROR]: Lỗi trong quá trình xác thực: Cast to ObjectId failed for value "-1" (type string) at path "_id" for model "User"
+2025-02-21 23:41:14 [ERROR]: Lỗi khi cập nhật người dùng: Cast to ObjectId failed for value "-1" (type string) at path "_id" for model "User"
+2025-02-21 23:41:31 [INFO]: Người dùng với ID 67b8abc657c060c927ff3454 đã được cập nhật thành công.
+2025-02-21 23:41:57 [INFO]: Sản phẩm mới đã được tạo: Laptop
+2025-02-21 23:42:01 [INFO]: Sản phẩm mới đã được tạo: Laptop
+2025-02-21 23:42:05 [INFO]: Sản phẩm mới đã được tạo: Laptop
+2025-02-21 23:42:11 [INFO]: Sản phẩm mới đã được tạo: Laptop
+2025-02-21 23:42:33 [INFO]: Lấy danh sách 5 sản phẩm (trang 1) thành công.
+2025-02-21 23:42:58 [INFO]: Lấy thông tin sản phẩm với ID 67b8acd457c060c927ff3460 thành công.
+2025-02-21 23:43:16 [INFO]: Đánh giá mới đã được tạo cho sản phẩm: 67b8acd457c060c927ff3461
+2025-02-21 23:43:28 [ERROR]: Lỗi khi tạo đánh giá: Review validation failed: product: Cast to ObjectId failed for value "67b8acd457c060c927ff" (type string) at path "product" because of "BSONError"
+2025-02-21 23:43:53 [INFO]: Lấy danh sách 0 đánh giá cho sản phẩm 67b8acd457c060c927ff3460 thành công.
+2025-02-21 23:43:57 [INFO]: Lấy danh sách 1 đánh giá cho sản phẩm 67b8acd457c060c927ff3461 thành công.
+2025-02-21 23:44:13 [INFO]: Đơn hàng mới được tạo cho người dùng: 67b8abc657c060c927ff3454
+2025-02-21 23:44:20 [INFO]: Đơn hàng mới được tạo cho người dùng: 67b8abc657c060c927ff3454
+2025-02-21 23:44:24 [INFO]: Đơn hàng mới được tạo cho người dùng: 67b8abc657c060c927ff3454
+2025-02-21 23:44:31 [INFO]: Đơn hàng mới được tạo cho người dùng: 67b8abc657c060c927ff3454
+2025-02-21 23:44:57 [INFO]: Thanh toán mới đã được tạo thành công cho đơn hàng: 63afc36fe7e3c12345abcd67
